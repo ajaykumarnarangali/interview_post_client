@@ -32,6 +32,5 @@ This is the client-side application for post blog, built with React and Tailwind
     }
     
   }
-
-  start the server : npm run dev
 })
+  start the server : npm run dev
